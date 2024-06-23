@@ -20,7 +20,7 @@ const Intro = () => {
                 >
                     Sichuan University
                 </a>{" "}
-                in Chengdu, China. I have more than three years of programming and
+                in Chengdu, China. I have more than four years of programming and
                 coding experience. I am a Python, Django, and JavaScript expert, as well
                 as a React.js intermediate and C, C#, and Java beginner. <br />
                 I enjoy what I do and want to have as much impact on the world
