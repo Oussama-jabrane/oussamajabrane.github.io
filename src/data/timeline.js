@@ -3,7 +3,7 @@ export default [
         year: 'Today',
         title: 'Software Engineering Student',
         duration: '< 1 year',
-        details: 'I am presently a freshman at Sichuan University studying Software Engineering. I intend to graduate in July 2027.'
+        details: 'I am presently a freshman at Sichuan University studying Software Engineering. I intend to graduate in Summer 2027.'
     },
     {
         year: '2021-2022',
